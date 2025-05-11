@@ -1,0 +1,8 @@
+dash
+dash-bootstrap-components
+plotly
+spacy
+pymongo
+scikit-learn
+pandas
+requests
